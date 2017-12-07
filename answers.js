@@ -113,3 +113,15 @@ for (i=0; i < 1000; i++) {
 }
 
 console.log(total);
+
+// Triangles
+
+let triangle = "#"
+
+for (i=1; i <= 7; i++) {
+	console.log(triangle.repeat(i));
+}
+
+for (i=6; i >=1; i--) {
+	console.log(triangle.repeat(i));
+}
