@@ -92,6 +92,9 @@ const thomsCloset = [
 
 // Stuck here, Gotta come back to it
 
+let kristynsShoe = kristynsCloset[0];
+thomsCloset[2].push(kristynsShoe);
+
 // Dirty Laundry
 
 for (i=0; i < kristynsCloset.length; i++) {
