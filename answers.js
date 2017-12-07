@@ -48,3 +48,11 @@ karolin[1] = 17;
 matt[2] = "Gotham City";
 kristyn.pop();
 kristyn.push("Brooklyn");
+
+// Yell at the Ninja Turtles
+
+const turts = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
+
+for (i=0; i < turts.length; i++) {
+	console.log(turts[i].toUpperCase());
+}
